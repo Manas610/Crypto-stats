@@ -1,3 +1,7 @@
 .active {
     color: #318CE7;
 }
+
+.button:hover {
+    color: #87CEFA;
+}
